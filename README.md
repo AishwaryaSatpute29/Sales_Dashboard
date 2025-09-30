@@ -42,3 +42,17 @@ The Sales Performance Dashboard was developed to provide a comprehensive analysi
 - Integrated slicers (Date, City, Product, Channel) for dynamic filtering and personalized exploration.
 
 - Used Power Query for data cleaning, transformation, and preparation.
+
+# Key Insights
+
+- Identified top-performing products and cities, contributing the largest share to revenue.
+
+- Highlighted seasonal trends in monthly sales, uncovering peak and low-demand periods.
+
+- Revealed profit margin variations across products and channels, helping evaluate profitability.
+
+- Detected growth/decline trends by comparing current year vs previous year performance.
+
+- Showed customer-level sales contribution, enabling better targeting of high-value customers.
+
+- Provided a holistic view of business performance, supporting data-driven decisions on sales strategy and resource allocation.
