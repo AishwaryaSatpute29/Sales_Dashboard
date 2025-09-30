@@ -80,3 +80,7 @@ The Sales Performance Dashboard was developed to provide a comprehensive analysi
 - Created advanced DAX measures for sales, profit, profit margin, and Year-over-Year analysis.
 
 - Designed optimized data models with custom date tables and relationships to support time intelligence.
+
+✅ Conclusion
+
+The Sales Performance Dashboard successfully provided a centralized, interactive, and insightful reporting solution using Power BI. By integrating automated data transformation, advanced DAX measures, and dynamic visualizations, the project enabled stakeholders to track KPIs, analyze trends, and compare year-over-year performance with ease. The dashboard not only reduced manual reporting efforts but also enhanced data-driven decision-making by offering clear visibility into sales, profit, customer performance, and regional growth opportunities.
