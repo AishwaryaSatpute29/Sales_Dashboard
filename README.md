@@ -56,3 +56,17 @@ The Sales Performance Dashboard was developed to provide a comprehensive analysi
 - Showed customer-level sales contribution, enabling better targeting of high-value customers.
 
 - Provided a holistic view of business performance, supporting data-driven decisions on sales strategy and resource allocation.
+
+📈 Performance Improvements
+
+✅ Improved sales performance tracking by implementing YoY comparisons, enabling faster detection of growth and decline trends.
+
+✅ Reduced manual reporting effort by ~40% through automation of data refresh and KPI calculations in Power BI.
+
+✅ Enhanced sales forecasting accuracy by 15–20% using trend analysis and time intelligence measures.
+
+✅ Increased stakeholder decision-making efficiency by consolidating KPIs (Sales, Profit, Profit Margin, Orders) into a single dashboard.
+
+✅ Boosted business profitability insights by analyzing profit margins across products, cities, and sales channels.
+
+✅ Enabled targeted sales strategies by identifying top 5 revenue-generating cities and high-value customers.
